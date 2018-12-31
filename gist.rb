@@ -2,7 +2,7 @@ class Gist < Formula
   desc "Unofficial toolkit for file uploads to GitHub gist"
   homepage "https://github.com/TheTannerRyan/gist"
   url "https://github.com/TheTannerRyan/gist/releases/download/v1.0.1/gist-darwin_amd64.tar.gz"
-  sha256 "835afee0c9253d269e6322ec79d25f4d77203be2be78354f77fead26d36298f0"
+  sha256 "8b41d09e8a900fc2907b07d2b9aa8c444b170228a71a4b5f05d67b69218f0729"
 
   bottle :unneeded
 
